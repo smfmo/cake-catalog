@@ -14,34 +14,28 @@ export class CatalogComponent {
 
   produtos = [
     {
-      nome: "Bolo de Chocolate",
-      descricao: "Cobertura cremosa e recheio de brigadeiro",
-      preco: 45.00,
-      imagem: "/imgs/bolo_choclate.jpg"
+      nome: "Bolo de chocolate com calda",
+      descricao: "Com granulado",
+      preco: 30.00,
+      imagem: "/imgs/chocolate_calda.jpg"
     },
     {
-      nome: "Bolo de Chocolate",
-      descricao: "Cobertura cremosa e recheio de brigadeiro",
-      preco: 45.00,
-      imagem: "/imgs/bolo_choclate.jpg"
+      nome: "Bolo de limão simples",
+      descricao: "Fofinho e saboroso",
+      preco: 20.00,
+      imagem: "/imgs/limao.jpg"
     },
     {
-      nome: "Bolo de Chocolate",
-      descricao: "Cobertura cremosa e recheio de brigadeiro",
-      preco: 45.00,
-      imagem: "/imgs/bolo_choclate.jpg"
+      nome: "Bolo de laranja simples",
+      descricao: "Fofinho e saboroso",
+      preco: 20.00,
+      imagem: "/imgs/laranja.jpg"
     },
     {
-      nome: "Bolo de Chocolate",
-      descricao: "Cobertura cremosa e recheio de brigadeiro",
-      preco: 45.00,
-      imagem: "/imgs/bolo_choclate.jpg"
-    },
-    {
-      nome: "Bolo de Chocolate",
-      descricao: "Cobertura cremosa e recheio de brigadeiro",
-      preco: 45.00,
-      imagem: "/imgs/bolo_choclate.jpg"
+      nome: "Bolo de cenoura com calda",
+      descricao: "calda cremosa",
+      preco: 30.00,
+      imagem: "/imgs/cenoura_calda.jpg"
     },
   ]
 }
