@@ -17,13 +17,13 @@ export class CatalogComponent {
       nome: "Bolo de Banana com canela",
       descricao: "Bolo fofinho de banana com um delicado toque de canela.",
       preco: 20.00,
-      imagem: "/imgs/bolo_banana_canela.jpg"
+      imagem: "/imgs/banana_canela.jpg"
     },
     {
       nome: "Bolo de leite",
       descricao: "Bolo macio e leve, com o sabor suave do leite.",
       preco: 40.00,
-      imagem: "/imgs/bolo_leite.jpg"
+      imagem: "/imgs/bolo-leite.jpg"
     },
     {
       nome: "Bolo de limão simples",
