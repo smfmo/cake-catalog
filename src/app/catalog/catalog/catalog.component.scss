@@ -86,13 +86,13 @@ img {
       display: flex;
       align-items: center;
       justify-content: center;
-      gap: 8px;
+      gap: 10px;
       background-color: #521416;
       color: white;
       font-weight: 600;
-      border-radius: 10px;
+      border-radius: 16px;
       text-transform: none;
-      padding: 10px 18px;
+      padding: 11px 19px;
       transition: background-color 0.3s, transform 0.2s;
 
       &:hover {
@@ -101,8 +101,8 @@ img {
       }
 
       .whatsapp-icon {
-        width: 22px;
-        height: 22px;
+        width: 23px;
+        height: 23px;
       }
     }
   }
@@ -116,6 +116,6 @@ img {
 
 @media (max-width: 600px) {
   .product-card {
-    flex: 1 1 90%; // um card por linha
+    flex: 1 2 90%;
   }
 }

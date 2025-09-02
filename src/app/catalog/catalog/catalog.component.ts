@@ -7,11 +7,7 @@ import { Component, Input } from '@angular/core';
   styleUrl: './catalog.component.scss'
 })
 export class CatalogComponent {
-  @Input() nome!: string;
-  @Input() descricao!: string;
-  @Input() preco!: number;
-  @Input() imagem!: string;
-
+  
   produtos = [
     {
       nome: "Bolo de Banana com canela",
