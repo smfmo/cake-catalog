@@ -30,7 +30,7 @@ export class CatalogComponent {
     {
       nome: "Bolo de leite",
       descricao: "Bolo macio e leve, com o sabor suave do leite.",
-      preco: 40.00,
+      preco: 25.00,
       imagem: "/imgs/bolo-leite-sem-cobertura.jpg"
     },
     {
