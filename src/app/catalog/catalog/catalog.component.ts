@@ -27,6 +27,12 @@ export class CatalogComponent {
       preco: 20.00,
       imagem: "/imgs/banana_canela.jpg"
     },
+     {
+      nome: "Bolo de mandioca",
+      descricao: "Bolo delicioso de mandioca",
+      preco: 40.00,
+      imagem: "/imgs/bolo-mandioca.jpg"
+    },
     {
       nome: "Bolo de leite",
       descricao: "Bolo macio e leve, com o sabor suave do leite.",
